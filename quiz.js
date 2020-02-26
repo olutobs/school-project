@@ -1,7 +1,7 @@
 const get_id = x => document.getElementById(x);
 const log = x => console.log(x);
 
-const ageAnswer = 32; // PASS MARK
+const ageAnswer = 12; // PASS MARK
 var feedback = get_id("resultShow");
 const submit = get_id("button");
 const ans = ["You have chosen the right answer", "Incorrect - Please try again"];

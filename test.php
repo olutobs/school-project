@@ -6,15 +6,15 @@
   <div class="quizSection mt-4 bg-primary text-black" id="quizSection">
 
 
-    <label> How old is Mary Anning? </label>
+    <label> How old is Mary Anning when she made her first discovery? </label>
     <br />
     <div class="form-check form-check-inline">
-      <input class="form-check-input" name="quiz" type="radio" name="inlineRadioOptions" id="inlineRadio1" value="50" />
-      <label class="form-check-label" for="inlineRadio1">50 years</label>
+      <input class="form-check-input" name="quiz" type="radio" name="inlineRadioOptions" id="inlineRadio1" value="12" />
+      <label class="form-check-label" for="inlineRadio1">12 years</label>
     </div>
     <div class="form-check form-check-inline">
-      <input class="form-check-input" name="quiz" type="radio" name="inlineRadioOptions" id="inlineRadio2" value="32" />
-      <label class="form-check-label" for="inlineRadio2">32 years</label>
+      <input class="form-check-input" name="quiz" type="radio" name="inlineRadioOptions" id="inlineRadio2" value="15" />
+      <label class="form-check-label" for="inlineRadio2">15 years</label>
 
 
     </div>
