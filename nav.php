@@ -9,10 +9,10 @@
 
         <nav class="navigation__nav">
             <ul class="navigation__list">
-                <li class="navigation__item"><a href="#section-about" class="navigation__link"><span>01</span>Who is Mary Anning</a></li>
-                <li class="navigation__item"><a href="#mary" class="navigation__link"><span>02</span>Did you know</a></li>
-                <li class="navigation__item"><a href="#section-tours" class="navigation__link"><span>03</span>More Info</a></li>
-                <li class="navigation__item"><a href="#section-book" class="navigation__link"><span>04</span>Thank you </a></li>
+                <li class="navigation__item"><a href="#head1" class="navigation__link"><span>01</span>Who is Mary Anning</a></li>
+                <li class="navigation__item"><a href="#mary1" class="navigation__link"><span>02</span>Did you know</a></li>
+                <li class="navigation__item"><a href="#section-tours" class="navigation__link"><span>03</span>More info</a></li>
+                <li class="navigation__item"><a href="#test2" class="navigation__link"><span>04</span>Test yourself </a></li>
 
             </ul>
         </nav>

@@ -1,7 +1,7 @@
 <section class="section-tours" id="section-tours">
     <div class="u-center-text">
         <h1 class="heading-secondary">
-            <u>more info</u>
+            <u>More Info</u>
         </h1>
     </div>
 

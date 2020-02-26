@@ -5,7 +5,7 @@
                   <form action="#" class="form">
                       <div class="u-margin-bottom-medium">
                           <h2 class="heading-secondary">
-                              mary anning
+                              Mary Anning
                           </h2>
                       </div>
                       <div class="paragraph">

@@ -30,3 +30,14 @@ const checkAnswer2 = () => {
 
 submit.addEventListener("click", checkAnswer2);
 
+
+
+
+
+
+
+
+
+
+
+

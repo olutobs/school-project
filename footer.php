@@ -13,8 +13,8 @@
 
          <div class="col-1-of-2">
              <p class="footer__copyright">
-                 Built by <a href="#" class="footer__link">oluwatobi olaogun</a>
-                 Copyright &copy; by Olutobi .
+                 Built by <a href="#" class="footer__link">Oluwatobi Olaogun</a>
+                 Copyright &copy; 2020 by Olutobi Olaogun .
 
              </p>
          </div>
